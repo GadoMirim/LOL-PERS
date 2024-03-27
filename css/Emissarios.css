@@ -15,10 +15,10 @@ background-attachment: fixed;
     }                                                                                        
 
     .container1 div{
-        width: 750px;
-        height: 150px;
+        width: 100%;
+        height: 100%;
         display: flex;
-        margin:90px;
+        margin:60px;
         align-items:center;
         justify-content:center;
       }
@@ -27,24 +27,13 @@ background-attachment: fixed;
       display:flex;
       }
 
-      .container-texto div{
-        width: 650px;
-        height: 25px;
-        display: flex;
-        margin:150px;
-        align-items:center;
-        justify-content:center;
-      }
       
-      .container-texto{
-      display:flex;
-      }
 
       .container-texto2 div{
-        width: 650px;
-        height: 85px;
+        width: 40%;
+        height: 10%;
         display: flex;
-        margin:150px;
+        margin:90px;
         align-items:center;
         justify-content:center;
       }
